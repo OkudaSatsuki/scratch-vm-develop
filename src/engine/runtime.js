@@ -40,7 +40,8 @@ const defaultBlockPackages = {
     scratch3_sensing: require('../blocks/scratch3_sensing'),
     scratch3_data: require('../blocks/scratch3_data'),
     scratch3_procedures: require('../blocks/scratch3_procedures'),
-    scratch3_ruby: require('../blocks/scratch3_ruby')
+    scratch3_ruby: require('../blocks/scratch3_ruby'),
+    scratch3_tester: require('../blocks/scratch3_tester')
 };
 
 const defaultExtensionColors = ['#0FBD8C', '#0DA57A', '#0B8E69'];
