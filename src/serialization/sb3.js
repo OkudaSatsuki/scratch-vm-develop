@@ -56,7 +56,9 @@ const CORE_EXTENSIONS = [
     'sensing',
     'sound',
     'ruby',
-    'mrubyc'
+    'mrubyc',
+    'tester',
+    'second'
 ];
 
 // Constants referring to 'primitive' blocks that are usually shadows,
